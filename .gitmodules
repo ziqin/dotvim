@@ -1,0 +1,6 @@
+[submodule "start/editorconfig-vim"]
+	path = start/editorconfig-vim
+	url = https://github.com/editorconfig/editorconfig-vim.git
+[submodule "start/YouCompleteMe"]
+	path = start/YouCompleteMe
+	url = https://github.com/ycm-core/YouCompleteMe.git
