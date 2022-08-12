@@ -1,3 +1,6 @@
 [submodule "start/editorconfig-vim"]
 	path = start/editorconfig-vim
 	url = https://github.com/editorconfig/editorconfig-vim.git
+[submodule "start/vim-prettier"]
+	path = start/vim-prettier
+	url = https://github.com/prettier/vim-prettier
