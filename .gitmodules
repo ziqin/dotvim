@@ -4,3 +4,6 @@
 [submodule "start/vim-prettier"]
 	path = start/vim-prettier
 	url = https://github.com/prettier/vim-prettier
+[submodule "start/vim-airline"]
+	path = start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
