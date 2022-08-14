@@ -7,3 +7,15 @@
 [submodule "start/vim-airline"]
 	path = start/vim-airline
 	url = https://github.com/vim-airline/vim-airline
+[submodule "start/vim-lsp"]
+	path = start/vim-lsp
+	url = https://github.com/prabirshrestha/vim-lsp.git
+[submodule "start/vim-lsp-settings"]
+	path = start/vim-lsp-settings
+	url = https://github.com/mattn/vim-lsp-settings.git
+[submodule "start/asyncomplete"]
+	path = start/asyncomplete.vim
+	url = https://github.com/prabirshrestha/asyncomplete.vim.git
+[submodule "start/asyncomplete-lsp.vim"]
+	path = start/asyncomplete-lsp.vim
+	url = https://github.com/prabirshrestha/asyncomplete-lsp.vim.git
