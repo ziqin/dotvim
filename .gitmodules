@@ -19,3 +19,6 @@
 [submodule "start/asyncomplete-lsp.vim"]
 	path = start/asyncomplete-lsp.vim
 	url = https://github.com/prabirshrestha/asyncomplete-lsp.vim.git
+[submodule "start/vim-elixir"]
+	path = start/vim-elixir
+	url = https://github.com/elixir-editors/vim-elixir.git
