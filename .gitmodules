@@ -1,21 +1,21 @@
-[submodule "start/editorconfig-vim"]
-	path = start/editorconfig-vim
+[submodule "pack/plugins/start/editorconfig-vim"]
+	path = pack/plugins/start/editorconfig-vim
 	url = https://github.com/editorconfig/editorconfig-vim.git
-[submodule "start/vim-prettier"]
-	path = start/vim-prettier
+[submodule "pack/plugins/start/vim-prettier"]
+	path = pack/plugins/start/vim-prettier
 	url = https://github.com/prettier/vim-prettier
-[submodule "start/vim-airline"]
-	path = start/vim-airline
+[submodule "pack/plugins/start/vim-airline"]
+	path = pack/plugins/start/vim-airline
 	url = https://github.com/vim-airline/vim-airline
-[submodule "start/vim-lsp"]
-	path = start/vim-lsp
+[submodule "pack/plugins/start/vim-lsp"]
+	path = pack/plugins/start/vim-lsp
 	url = https://github.com/prabirshrestha/vim-lsp.git
-[submodule "start/vim-lsp-settings"]
-	path = start/vim-lsp-settings
+[submodule "pack/plugins/start/vim-lsp-settings"]
+	path = pack/plugins/start/vim-lsp-settings
 	url = https://github.com/mattn/vim-lsp-settings.git
-[submodule "start/asyncomplete"]
-	path = start/asyncomplete.vim
+[submodule "pack/plugins/start/asyncomplete"]
+	path = pack/plugins/start/asyncomplete.vim
 	url = https://github.com/prabirshrestha/asyncomplete.vim.git
-[submodule "start/asyncomplete-lsp.vim"]
-	path = start/asyncomplete-lsp.vim
+[submodule "pack/plugins/start/asyncomplete-lsp.vim"]
+	path = pack/plugins/start/asyncomplete-lsp.vim
 	url = https://github.com/prabirshrestha/asyncomplete-lsp.vim.git
