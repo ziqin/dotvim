@@ -19,3 +19,6 @@
 [submodule "pack/plugins/start/asyncomplete-lsp.vim"]
 	path = pack/plugins/start/asyncomplete-lsp.vim
 	url = https://github.com/prabirshrestha/asyncomplete-lsp.vim.git
+[submodule "pack/plugins/start/vim-gitgutter"]
+	path = pack/plugins/start/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter.git
