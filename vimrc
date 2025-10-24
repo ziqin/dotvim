@@ -5,5 +5,6 @@ source $VIMRUNTIME/defaults.vim
 highlight! link SignColumn LineNr
 
 set number
+set regexpengine=0
 syntax on
 filetype indent plugin on
